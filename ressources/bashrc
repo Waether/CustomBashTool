@@ -1,0 +1,4 @@
+for item in `find /etc/share/CustomBash/bashrc.d/ -type f`
+do
+    source $item
+done
