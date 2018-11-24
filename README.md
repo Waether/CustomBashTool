@@ -1,5 +1,5 @@
 # CustomBashTool
-A tool to easily install mycustom bash env.
+A tool to easily install my custom bash env.
 
 ## Prerequisites
 
