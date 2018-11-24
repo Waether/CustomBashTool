@@ -4,6 +4,7 @@ A tool to easily install mycustom bash env.
 ## Prerequisites
 
 * Linux (tested on Ubuntu 16.04) - Should be compatible with others Linux based OS
+* Bash (tested on GNU bash 4.3.48(1)-release)
 
 ## How to install
 
